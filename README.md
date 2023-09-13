@@ -1,4 +1,4 @@
-# Test
+# Email Administration Application
 
 It is a console-based Java Application which helps in generating an email id and password for employees working in an organization.
 
